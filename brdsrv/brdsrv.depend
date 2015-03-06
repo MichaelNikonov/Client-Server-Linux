@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1422279743 source:/home/mishka/Desktop/HW4/brdsrv/srv.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	<errno.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	"brd.h"
+
+1422278531 /home/mishka/Desktop/HW4/brdsrv/brd.h
+

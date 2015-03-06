@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1422203386 source:/home/mishka/Desktop/HW4/brdent/brdent.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+	<errno.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	"brd.h"
+
+1421917491 /home/mishka/Desktop/HW4/brdent/brd.h
+
